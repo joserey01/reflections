@@ -1,0 +1,5 @@
+Que pasa cuando inicias un repositorio? ¡porque es necesario hacerlo?
+Se crea la carpeta .git, es necesario hacelos para llevar el control de versiones y commit
+Como es diferente el "staging area"de una carpeta de trabajo y de un repositorio ¿ Cual es valor que ofrece?
+Se diferencian por los colores verde para Staging area y rojo para cpeta de trabajo, ofrecen valores de poder hacer los cambios necesarios en un commit.
+
