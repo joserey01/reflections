@@ -1,0 +1,10 @@
+﻿¿Cómo es que el ver dos versiones diferentes de un archivo te ayuda a vizualizar un error escrito?
+Por medio de la comparación de ambas versiones y por el registro de las modificaciones.
+¿ Como tener acceso al al historial de un archivo te hace más eficiente como programador al largo término?
+Al tener diferentes versiones conocer posibles opciones y funcionalidad  
+¿Cuáles crees que sean los prost y lo contras cuando hacer un commit de forma manual (Como los haces con Git), contra que los cambios se hagan de forma automática (Como google docs lo hace)?
+Se tiene documentada todas las versiones que se tienen y es genera varios commit segun el numero de versiones. En google no se documenta.
+¿Por qué creeque algunos sistemas de control de versiones permiten guardar los cambios multiples archivos en un commit, mientras otros como google docs manejan cada archivo de forma separada?
+Es que fueron desarrollado para diferentes funciones y posiblemente se requiere registro de otros tipos de archivos que no se reflejan en el comentario.
+Ahora que tienes tu entorno configurado ¡que te gustaria intentar hacer utilizando git?
+Iniciar a comparar versiones, restaurar versiones, analizar diferencias de codigo y cambios en la interfaz
