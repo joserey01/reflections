@@ -1,3 +1,8 @@
 Iniciamos la unidad 3
 Por qué querrías hacer siempre tus pullde forma manual en lugar de git se mantenga actualizado y en coordinación con tus repositorio remoto de forma automatica?
 Para maneter el cotrol del sistema y no actualizar algunas cosas inecesarias 
+Describe las diferencias entre forks, clone y branches y di paque utilizas cada uno?
+Fork                              Clone                                                         Branches
+Permite la clonación en nube      Realizas una copia del proyecto a tu carpeta local            Son derivaciones o mejoras que                                                                                                  se pueden realizar de un                                                                                                        proyecto
+
+
