@@ -8,4 +8,5 @@ Cual es el beneficio de tener una copia del último estado conocido de forma loc
 Los beneficios es que tenemos la version que esta siendo utilizada y actualizada. 
 Como trabajariamos con algunos colaboradores de no tener git o github como herramienta? Cual seria la parte más fácil y la más dificil?
 Se podria trabajar compartiendo archivos y teniendo una bitacora de lo que se ha realizado. la parte mas acil sería un solo archcivo unificado, la dificil conjuntar las ideas de todos y meclarlas.
-
+Cuando es  ideal para ti hace  cambio en un brach independiente en lugar de hacerlo directamente al master branch? ¿Por qué? Que beneficios tiene cada uno?
+Cuando se requieren que la aplicación tenga ya una mejora o poder hacer una derivación 
