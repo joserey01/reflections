@@ -4,5 +4,6 @@ Para maneter el cotrol del sistema y no actualizar algunas cosas inecesarias
 Describe las diferencias entre forks, clone y branches y di paque utilizas cada uno?
 Fork                              Clone                                                         Branches
 Permite la clonación en nube      Realizas una copia del proyecto a tu carpeta local            Son derivaciones o mejoras que                                                                                                  se pueden realizar de un                                                                                                        proyecto
-
+Cual es el beneficio de tener una copia del último estado conocido de forma local?
+Los beneficios es que tenemos la version que esta siendo utilizada y actualizada. 
 
