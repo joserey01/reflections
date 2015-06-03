@@ -1,1 +1,3 @@
 Iniciamos la unidad 3
+Por qué querrías hacer siempre tus pullde forma manual en lugar de git se mantenga actualizado y en coordinación con tus repositorio remoto de forma automatica?
+Para maneter el cotrol del sistema y no actualizar algunas cosas inecesarias 
